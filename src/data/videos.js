@@ -3,8 +3,8 @@ export const videos = [
         "title": "Amsterdam Central",
         "description": "The station, which is one of the most visited touristic destinations in the country, is situated literally in the center of Amsterdam.",
         "url": {
-            "SD": "/res/video/1_1k.mp4",
-            "HD": "/res/video/1_2k.mp4"
+            "SD": " ./src/assets/videos/PedraBonita1k.mp4",
+            "HD": " ./src/assets/videos/PedraBonita1k.mp4"
         },
         "thumbnail": "/res/img/1.jpg"
     },
@@ -12,12 +12,12 @@ export const videos = [
         "title": "Veer Centraal Station",
         "description": "In Veer Centraal Station you can free cross the river. Really fast and convenient. You can even go with your bike.",
         "url": {
-            "SD": "/res/video/2_1k.mp4",
-            "HD": "/res/video/2_2k.mp4"
+            "SD": "./src/assets/videos/Kyshana - converted with Clipchamp.mp4",
+            "HD": "./src/assets/videos/Kyshana - converted with Clipchamp.mp4"
         },
         "thumbnail": "/res/img/2.jpg"
     },
-    {
+    /*{
         "title": "Dam Square",
         "description": "A dam, built in 1270 to protect the city from the inundation by Zuiderzee sea, later became the heart of Amsterdam always crowded with buzzing tourists and locals. ",
         "url": {
@@ -259,5 +259,5 @@ export const videos = [
             "HD": "/res/video/4_2k.mp4"
         },
         "thumbnail": "/res/img/4.jpg"
-    },
+    },*/
 ];
